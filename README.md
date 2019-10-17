@@ -2,6 +2,8 @@
 
 > Project description
 
+A proxy server used to join 4 microservices to output a restaurant reservations application
+
 ## Related Projects
 
   - https://github.com/llaminati/Banner-Gallery-Proxy
@@ -9,22 +11,9 @@
   - https://github.com/llaminati/Reservations-Proxy
   - https://github.com/llaminati/Reviews-Proxy
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
-
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
 - Node 6.13.0
-- etc
 
 ## Development
 
