@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
-    "nodemon": "^1.19.4"
+    "nodemon": "^2.0.2"
   }
 }
